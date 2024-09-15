@@ -43,7 +43,8 @@ pip install requests pillow
     python main.py
     ```
 
-**Note:** Ensure you have Python and the necessary libraries installed on your system. Instead, you can also use Anaconda to run this script as it contains all the used libraries inbuilt.
+**Note:** Ensure you have Python and the necessary libraries installed on your system.
+Instead, you can also use Anaconda to run this script as it contains all the used libraries inbuilt.
 
 ### Code Overview
 
